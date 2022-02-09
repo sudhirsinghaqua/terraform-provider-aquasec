@@ -2,7 +2,7 @@
 # you can turn it on using a cron schedule for regular testing.
 #
 name: Tests
-on: workflow_dispatch
+on: [workflow_dispatch]
 #   pull_request:
 #     paths-ignore:
 #       - 'README.md'
